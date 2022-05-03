@@ -5,4 +5,4 @@ In this project, we will first use training data on social influence to build a 
 And then we will collect about 5,000 tweets about Tesla, and use the predictors from previous steps to identify top 100 influencers
 
 ### See Social Media Analysis Jupyter Notebook for detailed analysis
-### All the external data used in the project are in the data_used folder
+### All the external data used and outputs of the project are in the data_used&output folder
